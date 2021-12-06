@@ -19,7 +19,7 @@
 <!-- Navigation-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Porfolio MKhairi</span>
+        <span class="d-block d-lg-none"> MKhairi</span>
         <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="/img/malkhairi.jpg" alt="..." /></span>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
@@ -43,7 +43,7 @@
                 Muhd
                 <span class="text-info">Akmal Khairi</span>
             </h1>
-            <div class="subheading mb-5">
+            <div class="subheading mb-5 text-info">
                 <!--3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·-->
                 <a href="mailto:akmalkhairi24@gmail.com">akmalkhairi24@gmail.com</a>
             </div>
@@ -52,7 +52,7 @@
                 Welcome!<br> Here are some info about me
             </h3>
             {{--<p class="lead mb-5">&#128313  <br> &#128313  <br> &#128313 </p>--}}
-            <ul class="fa-ul mb-5">
+            {{--<ul class="fa-ul mb-5">
                 <li>
                     <span class="fa-li"><i class="fas fa-bug"></i></span>
                     Loves to Code & Explore New Tech Things
@@ -65,8 +65,45 @@
                     <span class="fa-li"><i class="fab fa-apple"></i></span>
                     Apple Product Enthusiast
                 </li>
-            </ul>
-            <div class="social-icons">
+            </ul>--}}
+            <div class="row mb-5">
+                <div class="col-sm-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <img class="card-img-top mb-3" src="/img/coding.gif" alt="Card image cap"><br>
+                            <i class="fas fa-bug mb-1"></i>
+                            <h5 class="card-title">Loves to Code & Explore New Tech Things</h5>
+                            {{--<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>--}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <img class="card-img-top mb-3" src="/img/mufc.gif" alt="Card image cap"><br>
+                            <i class="fas fa-futbol mb-1"></i>
+                            <h5 class="card-title">Manchester United Fans</h5>
+                            {{--<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>--}}
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card">
+                        <div class="card-body text-center">
+                            <img class="card-img-top mb-3" src="/img/apple.gif" styles="height: 360px ; width: 480px;" alt="Card image cap"><br>
+                            <i class="fab fa-apple mb-1"></i>
+                            <h5 class="card-title">Apple Product Enthusiast</h5>
+                            {{--<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>--}}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="social-icons text-center">
                 <a class="social-icon" href="https://www.linkedin.com/in/muhammad-akmal-khairi-82a722199/"><i class="fab fa-linkedin-in"></i></a>
                 <a class="social-icon" href="https://github.com/AkmalKhairi"><i class="fab fa-github"></i></a>
                 <!--<a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>

@@ -411,13 +411,14 @@
                         <div class="card-body">
                             <div class="flex flex-column align-content-between h-100">
                                 <div class="text-center">
-                                    <img class="card-img-top mb-3" src="/img/Logo E-Undi.png" style="height: 70px; width: auto;" alt="Card image cap">
+                                    <img class="card-img-top mb-3" src="/img/Logo E-Undi.png" style="height: 100px; width: auto;" alt="Card image cap">
                                 </div>
                                 <div class="mt-2">
                                     <h5 class="card-title">E-UNDI</h5>
                                     <p class="card-text">E-Undi purpose is to create a system that is easy, clear, and efficient for the end user to use during the election in these Pandemic Covid-19 season.</p>
                                     <div class="text-end">
-                                    <a href="https://github.com/AkmalKhairi/e-undiv2" class="btn btn-secondary"><i class="fab fa-github"></i> Github Repo</a>
+                                        <a href="https://e-undi.herokuapp.com/mainpage.php" class="btn btn-secondary"><i class="fas fa-globe"></i> Demo</a>
+                                        <a href="https://github.com/AkmalKhairi/e-undiv2" class="btn btn-secondary"><i class="fab fa-github"></i> Github Repo</a>
                                     </div>
                                 </div>
                             </div>
@@ -429,14 +430,14 @@
                         <div class="card-body">
                             <div class="flex flex-column align-content-between h-100">
                                 <div class="text-center">
-                                    <img class="card-img-top mb-3" src="/img/Logo VMS.png" style="height: 70px; width: auto;" alt="Card image cap">
+                                    <img class="card-img-top mb-3" src="/img/Logo VMS1.png" style="height:100px; width: auto;" alt="Card image cap">
                                 </div>
                                 <div class="mt-2">
                                     <h5 class="card-title">Premise Visitor Monitoring System</h5>
                                     <p class="card-text">The system was developed by my team during Workshop 2 to monitors
                                         visitors entering and exit every premises by using IoT Technology during Pandemic Covid-19 season.</p>
                                     <div class="text-end">
-                                    <a href="https://github.com/AkmalKhairi/Premise-Visitor-Monitor-System" class="btn btn-secondary"><i class="fab fa-github"></i> Github Repo</a>
+                                        <a href="https://github.com/AkmalKhairi/Premise-Visitor-Monitor-System" class="btn btn-secondary"><i class="fab fa-github"></i> Github Repo</a>
                                     </div>
                                 </div>
                             </div>

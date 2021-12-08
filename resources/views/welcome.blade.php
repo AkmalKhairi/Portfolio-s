@@ -37,7 +37,7 @@
 <!-- Page Content-->
 <div class="container-fluid p-0">
     <!-- About-->
-    <section class="resume-section" id="about">
+    <section class="resume-section p-2" id="about">
         <div class="resume-section-content">
             <h1 class="mb-0 textmates">
                 <span class="text-warning">Muhd Akmal Khairi</span>

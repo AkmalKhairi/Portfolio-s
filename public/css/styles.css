@@ -90,7 +90,6 @@ body {
 }
 
 .textmates{
-    color: black;
     margin: 10px 0 0 10px;
     white-space: nowrap;
     overflow: hidden;
@@ -11450,3 +11449,5 @@ section.resume-section .resume-section-content {
         padding-bottom: 5rem;
     }
 }
+
+

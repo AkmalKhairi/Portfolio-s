@@ -37,10 +37,11 @@
 <!-- Page Content-->
 <div class="container-fluid p-0">
     <!-- About-->
-    <section class="resume-section p-2" id="about">
+    <section class="resume-section" id="about">
         <div class="resume-section-content">
             <h1 class="mb-0 textmates">
-                <span class="text-warning">Muhd Akmal Khairi</span>
+                Muhd
+                <span class="text-warning"> Akmal Khairi</span><br>
                 Abdul Halim
             </h1>
             {{--<div class="subheading mb-5 text-info">

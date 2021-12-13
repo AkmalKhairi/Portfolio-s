@@ -124,9 +124,10 @@
 
 
             <div class="social-icons text-center">
-                <a class="social-icon" href="mailto:akmalkhairi24@gmail.com"><i class="fas fa-at"></i></a>
-                <a class="social-icon" href="https://www.linkedin.com/in/muhammad-akmal-khairi-82a722199/"><i class="fab fa-linkedin-in"></i></a>
-                <a class="social-icon" href="https://github.com/AkmalKhairi"><i class="fab fa-github"></i></a>
+                <a class="social-icon" href="/Resume_AkmalKhairi.pdf" target="_blank" rel="noopener noreferrer" title="Resume"><i class="fas fa-user-circle"></i></a>
+                <a class="social-icon" href="mailto:akmalkhairi24@gmail.com" target="_blank" rel="noopener noreferrer" title="Email"><i class="fas fa-at"></i></a>
+                <a class="social-icon" href="https://www.linkedin.com/in/muhammad-akmal-khairi-82a722199/" target="_blank" rel="noopener noreferrer" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                <a class="social-icon" href="https://github.com/AkmalKhairi" target="_blank" rel="noopener noreferrer" title="GitHub"><i class="fab fa-github"></i></a>
                 <!--<a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
                 <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>-->
             </div>

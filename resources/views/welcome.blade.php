@@ -25,7 +25,7 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav">
-            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Home</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Home">Home</a></li>
             <!--<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>-->
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
             <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
@@ -37,7 +37,7 @@
 <!-- Page Content-->
 <div class="container-fluid p-0">
     <!-- About-->
-    <section class="resume-section" id="about">
+    <section class="resume-section" id="Home">
         <div class="resume-section-content">
             <h1 class="mb-0 textmates">
                 Muhd
@@ -200,12 +200,12 @@
                 </div>
                 <div class="flex-shrink-0"><span class="text-secondary">January 2012 - December 2016</span></div>
             </div>
-            <div class="d-flex flex-column flex-md-row justify-content-between">
+            {{--<div class="d-flex flex-column flex-md-row justify-content-between">
                 <div class="flex-grow-1">
                     <h3 class="mb-0">Sekolah Kebangsaan Seri Anggerik</h3>
                 </div>
                 <div class="flex-shrink-0"><span class="text-secondary">January 2006 - December 2011</span></div>
-            </div>
+            </div>--}}
         </div>
     </section>
     <hr class="m-0" />
@@ -439,6 +439,7 @@
                                     <p class="card-text">The system was developed by my team during Workshop 2 to monitors
                                         visitors entering and exit every premises by using IoT Technology during Pandemic Covid-19 season.</p>
                                     <div class="text-end">
+                                        <a href="/Sijil E-Reka.pdf" class="btn btn-secondary" target="_blank" ><i class="fas fa-medal"></i> Certificate</a>
                                         <a href="https://github.com/AkmalKhairi/Premise-Visitor-Monitor-System" class="btn btn-secondary"><i class="fab fa-github"></i> Github Repo</a>
                                     </div>
                                 </div>
@@ -526,7 +527,7 @@
                                 </div>
                                 <div>
                                     <h3 class="card-title">SUKAN PIALA DEKAN 2020</h3>
-                                    <p class="blockquote">[Gold Medal]</p>
+                                    <p class="blockquote">[Futsal - Gold Medal]</p>
                                 </div>
                             </div>
                             {{--<p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -557,6 +558,17 @@
         </div>
     </section>
 </div>
+<!-- Footer -->
+<footer class="page-footer font-small blue pt-4">
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2021 AkmalKhairi -
+        made from Laravel with &#10084
+    </div>
+    <!-- Copyright -->
+
+</footer>
+<!-- Footer -->
 <!-- Bootstrap core JS-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <!-- Core theme JS-->

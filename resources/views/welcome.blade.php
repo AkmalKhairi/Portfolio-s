@@ -563,7 +563,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2021 AkmalKhairi -
-        made from Laravel with &#10084
+        made from Laravel & Bootstrap with &#10084
     </div>
     <!-- Copyright -->
 
